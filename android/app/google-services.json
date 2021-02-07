@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837885094341",
+    "project_id": "task-points-a70b4",
+    "storage_bucket": "task-points-a70b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837885094341:android:3712a399b7c6b0ef3483ac",
+        "android_client_info": {
+          "package_name": "abacus.ru.task_points"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837885094341-c4bafdfadfdhjm74akq61s8cap197djh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abacus.ru.task_points",
+            "certificate_hash": "5738394503d01cac70e9fcab9f06193a194e8739"
+          }
+        },
+        {
+          "client_id": "837885094341-ee4uqjb8pm243tb0enhp53fpd4gujiau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCfxzeRdfju-f8SaMVRRHxJkY-fxptw-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837885094341-ee4uqjb8pm243tb0enhp53fpd4gujiau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
